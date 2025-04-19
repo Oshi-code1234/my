@@ -1,0 +1,28 @@
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester 2\C#\tickets\bin\Debug\net8.0\tickets.exe
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester 2\C#\tickets\bin\Debug\net8.0\tickets.deps.json
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester 2\C#\tickets\bin\Debug\net8.0\tickets.runtimeconfig.json
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester 2\C#\tickets\bin\Debug\net8.0\tickets.dll
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester 2\C#\tickets\bin\Debug\net8.0\tickets.pdb
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester 2\C#\tickets\obj\Debug\net8.0\tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester 2\C#\tickets\obj\Debug\net8.0\tickets.AssemblyInfoInputs.cache
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester 2\C#\tickets\obj\Debug\net8.0\tickets.AssemblyInfo.cs
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester 2\C#\tickets\obj\Debug\net8.0\tickets.csproj.CoreCompileInputs.cache
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester 2\C#\tickets\obj\Debug\net8.0\tickets.dll
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester 2\C#\tickets\obj\Debug\net8.0\refint\tickets.dll
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester 2\C#\tickets\obj\Debug\net8.0\tickets.pdb
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester 2\C#\tickets\obj\Debug\net8.0\tickets.genruntimeconfig.cache
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester 2\C#\tickets\obj\Debug\net8.0\ref\tickets.dll
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester_2\C#\tickets\bin\Debug\net8.0\tickets.exe
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester_2\C#\tickets\bin\Debug\net8.0\tickets.deps.json
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester_2\C#\tickets\bin\Debug\net8.0\tickets.runtimeconfig.json
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester_2\C#\tickets\bin\Debug\net8.0\tickets.dll
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester_2\C#\tickets\bin\Debug\net8.0\tickets.pdb
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester_2\C#\tickets\obj\Debug\net8.0\tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester_2\C#\tickets\obj\Debug\net8.0\tickets.AssemblyInfoInputs.cache
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester_2\C#\tickets\obj\Debug\net8.0\tickets.AssemblyInfo.cs
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester_2\C#\tickets\obj\Debug\net8.0\tickets.csproj.CoreCompileInputs.cache
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester_2\C#\tickets\obj\Debug\net8.0\tickets.dll
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester_2\C#\tickets\obj\Debug\net8.0\refint\tickets.dll
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester_2\C#\tickets\obj\Debug\net8.0\tickets.pdb
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester_2\C#\tickets\obj\Debug\net8.0\tickets.genruntimeconfig.cache
+C:\Users\ushan\OneDrive\Desktop\Apiit Foundation\L4\semester_2\C#\tickets\obj\Debug\net8.0\ref\tickets.dll
