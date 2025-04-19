@@ -21,7 +21,7 @@ namespace tickets
             this.date = date;
             this.location = location;
             this.des = des;
-            //Tiket eventtik , this.eventtik = eventtik;
+            
         }
 
         public string Nameget
